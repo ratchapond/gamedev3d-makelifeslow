@@ -1,0 +1,122 @@
+[
+  {
+    "asset": "player",
+    "triangles": 43124,
+    "bytes": 3330016,
+    "blink": true
+  },
+  {
+    "asset": "seed",
+    "triangles": 41064,
+    "bytes": 3190960,
+    "blink": true
+  },
+  {
+    "asset": "livestock",
+    "triangles": 40392,
+    "bytes": 3150016,
+    "blink": true
+  },
+  {
+    "asset": "carpenter",
+    "triangles": 40518,
+    "bytes": 3174604,
+    "blink": true
+  },
+  {
+    "asset": "cow_young",
+    "triangles": 23868,
+    "bytes": 1656164,
+    "blink": true
+  },
+  {
+    "asset": "cow_adult",
+    "triangles": 26220,
+    "bytes": 1804664,
+    "blink": true
+  },
+  {
+    "asset": "chicken_young",
+    "triangles": 23826,
+    "bytes": 1530472,
+    "blink": true
+  },
+  {
+    "asset": "chicken_adult",
+    "triangles": 24840,
+    "bytes": 1192092,
+    "blink": true
+  },
+  {
+    "asset": "duck_young",
+    "triangles": 23898,
+    "bytes": 1533896,
+    "blink": true
+  },
+  {
+    "asset": "duck_adult",
+    "triangles": 24798,
+    "bytes": 1195876,
+    "blink": true
+  },
+  {
+    "asset": "sheep_young",
+    "triangles": 23838,
+    "bytes": 1948268,
+    "blink": true
+  },
+  {
+    "asset": "sheep_adult",
+    "triangles": 24144,
+    "bytes": 1649880,
+    "blink": true
+  },
+  {
+    "asset": "goat_young",
+    "triangles": 23880,
+    "bytes": 1784500,
+    "blink": true
+  },
+  {
+    "asset": "goat_adult",
+    "triangles": 24582,
+    "bytes": 1460016,
+    "blink": true
+  },
+  {
+    "asset": "pig_young",
+    "triangles": 23880,
+    "bytes": 1771940,
+    "blink": true
+  },
+  {
+    "asset": "pig_adult",
+    "triangles": 24234,
+    "bytes": 1430316,
+    "blink": true
+  },
+  {
+    "asset": "dog_young",
+    "triangles": 23928,
+    "bytes": 1702840,
+    "blink": true
+  },
+  {
+    "asset": "dog_adult",
+    "triangles": 24252,
+    "bytes": 1382340,
+    "blink": true
+  },
+  {
+    "asset": "cat_young",
+    "triangles": 24696,
+    "bytes": 1821688,
+    "blink": true
+  },
+  {
+    "asset": "cat_adult",
+    "triangles": 25128,
+    "bytes": 1509736,
+    "blink": true
+  }
+]

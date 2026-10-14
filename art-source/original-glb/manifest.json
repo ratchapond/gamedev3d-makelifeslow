@@ -1,0 +1,102 @@
+[
+  {
+    "asset": "player",
+    "triangles": 6941,
+    "bytes": 283892
+  },
+  {
+    "asset": "seed",
+    "triangles": 7084,
+    "bytes": 295160
+  },
+  {
+    "asset": "livestock",
+    "triangles": 6932,
+    "bytes": 289616
+  },
+  {
+    "asset": "carpenter",
+    "triangles": 6989,
+    "bytes": 291288
+  },
+  {
+    "asset": "cow_young",
+    "triangles": 3978,
+    "bytes": 360812
+  },
+  {
+    "asset": "cow_adult",
+    "triangles": 4370,
+    "bytes": 423732
+  },
+  {
+    "asset": "chicken_young",
+    "triangles": 3971,
+    "bytes": 326208
+  },
+  {
+    "asset": "chicken_adult",
+    "triangles": 4140,
+    "bytes": 288564
+  },
+  {
+    "asset": "duck_young",
+    "triangles": 3983,
+    "bytes": 323484
+  },
+  {
+    "asset": "duck_adult",
+    "triangles": 4133,
+    "bytes": 302836
+  },
+  {
+    "asset": "sheep_young",
+    "triangles": 3973,
+    "bytes": 389812
+  },
+  {
+    "asset": "sheep_adult",
+    "triangles": 4024,
+    "bytes": 418336
+  },
+  {
+    "asset": "goat_young",
+    "triangles": 3980,
+    "bytes": 380616
+  },
+  {
+    "asset": "goat_adult",
+    "triangles": 4097,
+    "bytes": 365076
+  },
+  {
+    "asset": "pig_young",
+    "triangles": 3981,
+    "bytes": 363196
+  },
+  {
+    "asset": "pig_adult",
+    "triangles": 4039,
+    "bytes": 353320
+  },
+  {
+    "asset": "dog_young",
+    "triangles": 3988,
+    "bytes": 381448
+  },
+  {
+    "asset": "dog_adult",
+    "triangles": 4042,
+    "bytes": 304700
+  },
+  {
+    "asset": "cat_young",
+    "triangles": 4125,
+    "bytes": 457748
+  },
+  {
+    "asset": "cat_adult",
+    "triangles": 4188,
+    "bytes": 355276
+  }
+]
